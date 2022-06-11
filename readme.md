@@ -1,0 +1,1 @@
+Um projeto simples que prevê seu futuro, usando a função math.Random do JavaScript.
